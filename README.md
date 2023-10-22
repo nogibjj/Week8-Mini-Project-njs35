@@ -15,7 +15,7 @@ I used two data processing tasks to generate metrics for comparison:
 |                 | Rust                           | Python                           | Approx. Rust Improvement |
 |-----------------|--------------------------------|----------------------------------|---------------------|
 | Time Taken      | 0.504 seconds                  | 2.663 seconds                   | 5x              |
-| CPU Usage       | 0.001%                          | 16.850%                         | 17,000x             |
+| CPU Usage       | 0.01%                          | 16.850%                         | 1,700x             |
 | Memory Usage    | 8315 kilobytes                 | 867004 kilobytes                | 100x              |
 
 ### Sorting a randomized array of 10 million integers
